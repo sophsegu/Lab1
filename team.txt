@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Yassine
+=======
+Marwa Goudar
+Yassine
+Sophie
+>>>>>>> f8d4d67ae705a328cd34c9ff89143ef14f0149b0
