@@ -3,4 +3,8 @@ Yassine Fadil
 =======
 Marwa Goudar
 >>>>>>> 22832236ae6f6b6574752a85c615249ab5fe15f9
+<<<<<<< HEAD
 Alice is writing a code
+=======
+Bob is coding
+>>>>>>> 26d8083f8fadeb371c5bf5f8246eccb792552144
