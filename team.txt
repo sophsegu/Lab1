@@ -4,6 +4,14 @@ Meryem Benjelloun
 <<<<<<< HEAD
 Othman Karib
 =======
+<<<<<<< HEAD
 yassine fadil
+=======
+<<<<<<< HEAD
+Marwa Goudar
+=======
+Sophie
+>>>>>>> bda38c50e218fc4cab56042ff1c3f176e7c1c1ca
+>>>>>>> d31214466550c2238e627e112053f11c1d7198c7
 >>>>>>> e3d91b0bd5fead3e556936438513b968c88191f3
 >>>>>>> 35398f2ba6c1a78a9b8057e7d7bd4266ef04d359
